@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://img.magnific.com/premium-photo/enchanting-fantasy-starry-night-4k-wallpaper-blue-purple-galaxy-with-aurora-glow_1270132-5734.jpg?semt=ais_hybrid&w=740&q=80);
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+          color:#1591DC;
+}
+
+form{
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+
+}
+
+#login-button{
+    width: 100%;
+    padding: 10px;
+    background-color: #1591DC;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    border: 1px solid #1591DC;
+    padding: 5px 10px;
+    background-color: #7bccff;
+}
+a:hover{
+    background-color: rgb(205, 245, 255);
+}
